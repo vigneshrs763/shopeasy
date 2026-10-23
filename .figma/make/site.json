@@ -1,0 +1,10 @@
+{
+  "description": "ShopEasy is a comprehensive e-commerce management system that enables customers to browse products, manage their cart, and track orders, while providing admins with tools for inventory and order management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
