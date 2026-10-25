@@ -1,4 +1,4 @@
-# ShopEasy – Shopping Management System
+# ShopEasy–Shopping Management System
 
 ## 1. Project Overview
 
